@@ -1,0 +1,1766 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:13
+msgid "404!"
+msgstr ""
+
+#: 404.php:19
+msgid "Back to home"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Comment"
+msgstr ""
+
+#: footer.php:67
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:40
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:41
+msgid "Menu One Page"
+msgstr ""
+
+#: functions.php:98
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Add widgets here to appear on Main Sidebar."
+msgstr ""
+
+#: functions.php:107
+msgid "Header top left"
+msgstr ""
+
+#: functions.php:109
+msgid "Add widgets here to appear on Header Top Left."
+msgstr ""
+
+#: functions.php:117
+msgid "Header top right"
+msgstr ""
+
+#: functions.php:119
+msgid "Add widgets here to appear on Header Top Right."
+msgstr ""
+
+#: functions.php:128
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:130
+msgid "Add widgets here to appear on Footer 1."
+msgstr ""
+
+#: functions.php:138
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:140
+msgid "Add widgets here to appear on Footer 2."
+msgstr ""
+
+#: functions.php:148
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:150
+msgid "Add widgets here to appear on Footer 3."
+msgstr ""
+
+#: functions.php:158
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:160
+msgid "Add widgets here to appear on Footer 4."
+msgstr ""
+
+#: functions.php:408 single.php:67
+msgid "avatar"
+msgstr ""
+
+#: functions.php:433
+msgid "choose type animate"
+msgstr ""
+
+#: functions.php:433
+msgid "bounceIn"
+msgstr ""
+
+#: functions.php:433
+msgid "flipOutX"
+msgstr ""
+
+#: functions.php:433
+msgid "flipInY"
+msgstr ""
+
+#: functions.php:433
+msgid "fadeIn"
+msgstr ""
+
+#: functions.php:433
+msgid "fadeInUp"
+msgstr ""
+
+#: functions.php:433
+msgid "fadeInDown"
+msgstr ""
+
+#: functions.php:433
+msgid "fadeInLeft"
+msgstr ""
+
+#: functions.php:433
+msgid "fadeInRight"
+msgstr ""
+
+#: functions.php:433
+msgid "pulse"
+msgstr ""
+
+#: functions.php:433
+msgid "rollIn"
+msgstr ""
+
+#: functions.php:433
+msgid "rotateIn"
+msgstr ""
+
+#: functions.php:439
+msgid "Section ID"
+msgstr ""
+
+#: functions.php:445
+msgid "Set ID section"
+msgstr ""
+
+#: functions.php:461
+msgid "Choose type animate"
+msgstr ""
+
+#: functions.php:469
+msgid "Button style"
+msgstr ""
+
+#: functions.php:473
+msgid "Yes"
+msgstr ""
+
+#: functions.php:477
+msgid "Use default style"
+msgstr ""
+
+#: functions.php:720 framework/custom-functions.php:209
+msgid "Page"
+msgstr ""
+
+#: functions.php:779
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:785
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:791
+msgid "QK Register Post Type"
+msgstr ""
+
+#: functions.php:796
+msgid "QK Import"
+msgstr ""
+
+#: functions.php:801
+msgid "QK Custom Functions"
+msgstr ""
+
+#: functions.php:808
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:812
+msgid "CMB2"
+msgstr ""
+
+#: functions.php:818
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:824
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:850
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:851
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:852
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:853
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:854
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:855
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:856
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:857
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:858
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:859
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:860
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:861
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:862
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:863
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:864
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:865
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:866
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:912
+msgid "work"
+msgstr ""
+
+#: header.php:89 framework/theme-configs.php:235
+msgid "Logo"
+msgstr ""
+
+#: index.php:26 single.php:23 vc_templates/qk_blog.php:40
+#: vc_templates/qk_blog.php:92 vc_templates/qk_blog.php:144
+#: vc_templates/qk_blog.php:194 vc_templates/qk_blog.php:207
+#: vc_templates/qk_blog.php:230 vc_templates/qk_blog_recent.php:39
+#: vc_templates/qk_blog_recent.php:52 vc_templates/qk_blog_recent.php:75
+msgid "0 Comment"
+msgstr ""
+
+#: index.php:26 single.php:23 vc_templates/qk_blog.php:40
+#: vc_templates/qk_blog.php:92 vc_templates/qk_blog.php:144
+#: vc_templates/qk_blog.php:194 vc_templates/qk_blog.php:207
+#: vc_templates/qk_blog.php:230 vc_templates/qk_blog_recent.php:39
+#: vc_templates/qk_blog_recent.php:52 vc_templates/qk_blog_recent.php:75
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:26 single.php:23 vc_templates/qk_blog.php:40
+#: vc_templates/qk_blog.php:92 vc_templates/qk_blog.php:144
+#: vc_templates/qk_blog.php:194 vc_templates/qk_blog.php:207
+#: vc_templates/qk_blog.php:230 vc_templates/qk_blog_recent.php:39
+#: vc_templates/qk_blog_recent.php:52 vc_templates/qk_blog_recent.php:75
+msgid "% Comments "
+msgstr ""
+
+#: index.php:37
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: index.php:38
+msgid "Search with other string:"
+msgstr ""
+
+#: index.php:54 vc_templates/qk_blog.php:53 vc_templates/qk_blog.php:106
+#: vc_templates/qk_blog.php:159 vc_templates/qk_blog.php:247
+msgid " Page "
+msgstr ""
+
+#: index.php:54 vc_templates/qk_blog.php:53 vc_templates/qk_blog.php:106
+#: vc_templates/qk_blog.php:159 vc_templates/qk_blog.php:247
+msgid " of "
+msgstr ""
+
+#: searchform.php:3 vc_templates/qk_searchform.php:5
+msgid "Enter Search Keywords..."
+msgstr ""
+
+#: single-portfolio.php:22 vc_templates/qk_portfolio.php:215
+#: vc_templates/qk_portfolio.php:299
+msgid "Add to Favorites"
+msgstr ""
+
+#: single-portfolio.php:37 vc_templates/qk_portfolio.php:230
+#: vc_templates/qk_portfolio.php:314
+msgid "Project Details"
+msgstr ""
+
+#: single-portfolio.php:47 vc_templates/qk_portfolio.php:240
+#: vc_templates/qk_portfolio.php:324
+msgid "Visit Site"
+msgstr ""
+
+#: single.php:21 vc_templates/qk_blog.php:38
+msgid "by:"
+msgstr ""
+
+#: single.php:22 vc_templates/qk_blog.php:39
+msgid "in:"
+msgstr ""
+
+#: single.php:23 vc_templates/qk_blog.php:40
+msgid "note:"
+msgstr ""
+
+#: single.php:45
+msgid "Share this Post"
+msgstr ""
+
+#: single.php:61
+msgid "About the Author"
+msgstr ""
+
+#. Name of the template
+msgid "Template Default"
+msgstr ""
+
+#: vc_functions.php:28
+msgid "QK Blog"
+msgstr ""
+
+#: vc_functions.php:31 vc_functions.php:130 vc_functions.php:177
+#: vc_functions.php:248 vc_functions.php:331 vc_functions.php:653
+#: vc_functions.php:821 vc_functions.php:1042 vc_functions.php:1141
+#: vc_functions.php:1195 vc_functions.php:1280 vc_functions.php:1482
+#: vc_functions.php:1571
+msgid "QK"
+msgstr ""
+
+#: vc_functions.php:37 vc_functions.php:60 vc_functions.php:70
+#: vc_functions.php:84 vc_functions.php:95 vc_functions.php:112
+#: vc_functions.php:136 vc_functions.php:150 vc_functions.php:254
+#: vc_functions.php:269 vc_functions.php:284 vc_functions.php:294
+#: vc_functions.php:337 vc_functions.php:659 vc_functions.php:829
+#: vc_functions.php:854 vc_functions.php:874 vc_functions.php:893
+#: vc_functions.php:912 vc_functions.php:931 vc_functions.php:950
+#: vc_functions.php:1048 vc_functions.php:1064 vc_functions.php:1074
+#: vc_functions.php:1084 vc_functions.php:1094 vc_functions.php:1104
+#: vc_functions.php:1115 vc_functions.php:1201 vc_functions.php:1286
+#: vc_functions.php:1494 vc_functions.php:1524 vc_functions.php:1583
+#: vc_functions.php:1629 vc_functions.php:1649 vc_functions.php:1681
+#: vc_functions.php:1701 vc_functions.php:1731 vc_functions.php:1758
+#: vc_functions.php:1786 vc_functions.php:1824 vc_functions.php:1851
+#: vc_functions.php:1879 vc_functions.php:1917 vc_functions.php:1943
+#: vc_functions.php:1970 vc_functions.php:2006 vc_functions.php:2034
+#: vc_functions.php:2054 vc_functions.php:2082 vc_functions.php:2110
+#: vc_functions.php:2130 vc_functions.php:2150 vc_functions.php:2172
+msgid "Template"
+msgstr ""
+
+#: vc_functions.php:46 vc_functions.php:260 vc_functions.php:1055
+#: vc_functions.php:1506 vc_functions.php:1597
+msgid "Select template in this elment."
+msgstr ""
+
+#: vc_functions.php:51
+msgid "Show Pagination"
+msgstr ""
+
+#: vc_functions.php:54 vc_functions.php:78 vc_functions.php:185
+#: vc_functions.php:278 vc_functions.php:435 vc_functions.php:520
+#: vc_functions.php:611 vc_functions.php:620 vc_functions.php:851
+#: vc_functions.php:870 vc_functions.php:908
+msgid "Yes, please"
+msgstr ""
+
+#: vc_functions.php:61
+msgid "Show or not show pagination in this element."
+msgstr ""
+
+#: vc_functions.php:67 vc_functions.php:147 vc_functions.php:672
+#: vc_functions.php:1518
+msgid "Total item"
+msgstr ""
+
+#: vc_functions.php:71 vc_functions.php:151 vc_functions.php:675
+#: vc_functions.php:1526
+msgid ""
+"Set max limit for items in loop or enter -1 to display all (limited to 1000)."
+msgstr ""
+
+#: vc_functions.php:75
+msgid "Show Readmore"
+msgstr ""
+
+#: vc_functions.php:85
+msgid "Show or hide title of post on your category."
+msgstr ""
+
+#: vc_functions.php:89
+msgid "Read More Text"
+msgstr ""
+
+#: vc_functions.php:96
+msgid "Enter readmore text."
+msgstr ""
+
+#: vc_functions.php:105
+msgid "Category Id"
+msgstr ""
+
+#: vc_functions.php:114
+msgid "Enter category id to display posts"
+msgstr ""
+
+#: vc_functions.php:127
+msgid "QK Blog Recent"
+msgstr ""
+
+#: vc_functions.php:141 vc_functions.php:666 vc_functions.php:1209
+#: vc_functions.php:1294
+msgid "Select style for text in this element."
+msgstr ""
+
+#: vc_functions.php:158 vc_functions.php:692 vc_functions.php:1122
+#: vc_functions.php:1175 vc_functions.php:1457 vc_functions.php:1538
+#: vc_functions.php:2186
+msgid "Extra class name"
+msgstr ""
+
+#: vc_functions.php:161 vc_functions.php:695 vc_functions.php:1023
+#: vc_functions.php:1125 vc_functions.php:1178 vc_functions.php:1460
+#: vc_functions.php:1544 vc_functions.php:2192
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc_functions.php:174
+msgid "QK Box Alert"
+msgstr ""
+
+#: vc_functions.php:182
+msgid "Show Icon"
+msgstr ""
+
+#: vc_functions.php:187
+msgid "Show or hide icon."
+msgstr ""
+
+#: vc_functions.php:193 vc_functions.php:362 vc_functions.php:1148
+#: vc_functions.php:1215
+msgid "Font icon"
+msgstr ""
+
+#: vc_functions.php:200 vc_functions.php:370 vc_functions.php:1151
+#: vc_functions.php:1222
+msgid "Set font icon"
+msgstr ""
+
+#: vc_functions.php:206 vc_functions.php:266 vc_functions.php:399
+#: vc_functions.php:983 vc_functions.php:1061 vc_functions.php:1228
+#: vc_functions.php:1695
+msgid "Title"
+msgstr ""
+
+#: vc_functions.php:209
+msgid "Enter box title"
+msgstr ""
+
+#: vc_functions.php:214
+msgid "Text Color"
+msgstr ""
+
+#: vc_functions.php:217 vc_functions.php:412 vc_functions.php:476
+msgid "Choose text color"
+msgstr ""
+
+#: vc_functions.php:222 vc_functions.php:313 vc_functions.php:627
+#: vc_functions.php:1017 vc_functions.php:1259
+msgid "Extra Class"
+msgstr ""
+
+#: vc_functions.php:225 vc_functions.php:316 vc_functions.php:630
+#: vc_functions.php:1262
+msgid "Extra Class."
+msgstr ""
+
+#: vc_functions.php:229 vc_functions.php:634
+msgid "Css"
+msgstr ""
+
+#: vc_functions.php:231 vc_functions.php:636
+msgid "Design options"
+msgstr ""
+
+#: vc_functions.php:245
+msgid "QK Button"
+msgstr ""
+
+#: vc_functions.php:257 vc_functions.php:1589 vc_functions.php:1615
+#: vc_functions.php:1669 vc_functions.php:1721 vc_functions.php:1806
+#: vc_functions.php:1899
+msgid "Please choose an option ..."
+msgstr ""
+
+#: vc_functions.php:275
+msgid "Show icon"
+msgstr ""
+
+#: vc_functions.php:285
+msgid "Show or not show icon in this element."
+msgstr ""
+
+#: vc_functions.php:290
+msgid "Icon"
+msgstr ""
+
+#: vc_functions.php:299
+msgid "Please, enter class icon in this element."
+msgstr ""
+
+#: vc_functions.php:305 vc_functions.php:563 vc_functions.php:1246
+#: vc_functions.php:1431
+msgid "Link Button"
+msgstr ""
+
+#: vc_functions.php:308
+msgid "Enter link"
+msgstr ""
+
+#: vc_functions.php:328
+msgid "QK Icons"
+msgstr ""
+
+#: vc_functions.php:343
+msgid "Select type for icons in this element."
+msgstr ""
+
+#: vc_functions.php:348
+msgid "Type Icon"
+msgstr ""
+
+#: vc_functions.php:351
+msgid "Font Icon"
+msgstr ""
+
+#: vc_functions.php:352
+msgid "Image"
+msgstr ""
+
+#: vc_functions.php:355 vc_functions.php:365 vc_functions.php:379
+#: vc_functions.php:392
+msgid "Icons"
+msgstr ""
+
+#: vc_functions.php:356
+msgid "Select type for icons."
+msgstr ""
+
+#: vc_functions.php:376
+msgid "Image icon"
+msgstr ""
+
+#: vc_functions.php:384
+msgid "Sellect thumb icon"
+msgstr ""
+
+#: vc_functions.php:389
+msgid "Extra Class For Icons"
+msgstr ""
+
+#: vc_functions.php:393
+msgid "Extra class for icons."
+msgstr ""
+
+#: vc_functions.php:402 vc_functions.php:411 vc_functions.php:427
+#: vc_functions.php:437 vc_functions.php:457 vc_functions.php:475
+#: vc_functions.php:484 vc_functions.php:501 vc_functions.php:511
+msgid "Title and Description"
+msgstr ""
+
+#: vc_functions.php:408
+msgid "Title Color"
+msgstr ""
+
+#: vc_functions.php:417 vc_functions.php:1609
+msgid "Type Heading"
+msgstr ""
+
+#: vc_functions.php:428
+msgid "Select type heading for title."
+msgstr ""
+
+#: vc_functions.php:432
+msgid "Show Line"
+msgstr ""
+
+#: vc_functions.php:442
+msgid "Show or hide line under the title."
+msgstr ""
+
+#: vc_functions.php:447
+msgid "Type Line"
+msgstr ""
+
+#: vc_functions.php:463
+msgid "Select type for line."
+msgstr ""
+
+#: vc_functions.php:468
+msgid "Line Color"
+msgstr ""
+
+#: vc_functions.php:481
+msgid "Height Line"
+msgstr ""
+
+#: vc_functions.php:489
+msgid "Height line in px."
+msgstr ""
+
+#: vc_functions.php:494
+msgid "Margin Bottom of Line"
+msgstr ""
+
+#: vc_functions.php:502
+msgid "Margin top of line in px."
+msgstr ""
+
+#: vc_functions.php:508 vc_functions.php:1091 vc_functions.php:1237
+#: vc_functions.php:2166
+msgid "Description"
+msgstr ""
+
+#: vc_functions.php:517
+msgid "Show Link"
+msgstr ""
+
+#: vc_functions.php:522
+msgid "Show or not view more button."
+msgstr ""
+
+#: vc_functions.php:528 vc_functions.php:1444
+msgid "Name Button"
+msgstr ""
+
+#: vc_functions.php:535
+msgid "Enter name of button"
+msgstr ""
+
+#: vc_functions.php:541
+msgid "Type Button"
+msgstr ""
+
+#: vc_functions.php:556
+msgid "Select type for button."
+msgstr ""
+
+#: vc_functions.php:570
+msgid "Enter link button"
+msgstr ""
+
+#: vc_functions.php:576
+msgid "Margin Top of Button"
+msgstr ""
+
+#: vc_functions.php:583
+msgid "Margin top of button in px."
+msgstr ""
+
+#: vc_functions.php:589
+msgid "Extra Class For Text"
+msgstr ""
+
+#: vc_functions.php:593
+msgid "Extra class for title and description."
+msgstr ""
+
+#: vc_functions.php:598
+msgid "Wrap Type"
+msgstr ""
+
+#: vc_functions.php:604
+msgid "Select type of wrap element."
+msgstr ""
+
+#: vc_functions.php:608
+msgid "Active icon"
+msgstr ""
+
+#: vc_functions.php:613
+msgid "Add status active to this icon"
+msgstr ""
+
+#: vc_functions.php:617
+msgid "Insert Clearfix"
+msgstr ""
+
+#: vc_functions.php:622
+msgid "Insert clearfix to clear float element."
+msgstr ""
+
+#: vc_functions.php:650
+msgid "QK panel"
+msgstr ""
+
+#: vc_functions.php:680
+msgid "Post Type"
+msgstr ""
+
+#: vc_functions.php:686
+msgid "Choose post type."
+msgstr ""
+
+#: vc_functions.php:815
+msgid "QK Portfolio"
+msgstr ""
+
+#: vc_functions.php:832
+msgid "Template 1 - 3 columns full hover"
+msgstr ""
+
+#: vc_functions.php:833
+msgid "Template 2 - 2 columns full hover"
+msgstr ""
+
+#: vc_functions.php:834
+msgid "Template 3 - 1 columns left"
+msgstr ""
+
+#: vc_functions.php:835
+msgid "Template 4 - 3 columns bottom hover"
+msgstr ""
+
+#: vc_functions.php:836
+msgid "Template 5 - 2 columns bottom hover"
+msgstr ""
+
+#: vc_functions.php:837
+msgid "Template 6 - 1 columns right"
+msgstr ""
+
+#: vc_functions.php:839
+msgid "Select template in this element."
+msgstr ""
+
+#: vc_functions.php:845
+msgid "Show filter"
+msgstr ""
+
+#: vc_functions.php:856
+msgid "Show or not show filter of post on your category."
+msgstr ""
+
+#: vc_functions.php:864
+msgid "Show Button More Info"
+msgstr ""
+
+#: vc_functions.php:876
+msgid "Show or hide button more info of post on your category."
+msgstr ""
+
+#: vc_functions.php:886
+msgid "Button More Info text"
+msgstr ""
+
+#: vc_functions.php:895 vc_functions.php:933
+msgid "Enter view more text, ex: More Info"
+msgstr ""
+
+#: vc_functions.php:902
+msgid "Show Button View Larger"
+msgstr ""
+
+#: vc_functions.php:914
+msgid "Show or hide button view larger of post on your category."
+msgstr ""
+
+#: vc_functions.php:924
+msgid "Button View Larger text"
+msgstr ""
+
+#: vc_functions.php:943
+msgid "Single Portfolio Id"
+msgstr ""
+
+#: vc_functions.php:952
+msgid "Enter value in only Single Column Portfolio"
+msgstr ""
+
+#: vc_functions.php:961 vc_functions.php:967
+msgid "Posts per page"
+msgstr ""
+
+#: vc_functions.php:969 vc_functions.php:989 vc_functions.php:1007
+msgid "Build Query"
+msgstr ""
+
+#: vc_functions.php:976
+msgid "Order by"
+msgstr ""
+
+#: vc_functions.php:981 vc_functions.php:1001
+msgid "None"
+msgstr ""
+
+#: vc_functions.php:985 framework/metabox-functions.php:94
+msgid "Date"
+msgstr ""
+
+#: vc_functions.php:987
+msgid "ID"
+msgstr ""
+
+#: vc_functions.php:991
+msgid "Order by (\"none\", \"title\", \"date\", \"ID\")."
+msgstr ""
+
+#: vc_functions.php:996
+msgid "Order"
+msgstr ""
+
+#: vc_functions.php:1003
+msgid "ASC"
+msgstr ""
+
+#: vc_functions.php:1005
+msgid "DESC"
+msgstr ""
+
+#: vc_functions.php:1009
+msgid "Order (\"None\", \"Asc\", \"Desc\")."
+msgstr ""
+
+#: vc_functions.php:1039
+msgid "QK Price"
+msgstr ""
+
+#: vc_functions.php:1071
+msgid "Price"
+msgstr ""
+
+#: vc_functions.php:1081
+msgid "Title2"
+msgstr ""
+
+#: vc_functions.php:1101
+msgid "Button name"
+msgstr ""
+
+#: vc_functions.php:1112
+msgid "Button link"
+msgstr ""
+
+#: vc_functions.php:1138
+msgid "QK Search Form"
+msgstr ""
+
+#: vc_functions.php:1157
+msgid "Label Submit"
+msgstr ""
+
+#: vc_functions.php:1160
+msgid "Enter label for submmit"
+msgstr ""
+
+#: vc_functions.php:1166
+msgid "Place Holder"
+msgstr ""
+
+#: vc_functions.php:1169
+msgid "Enter placeholder for search form"
+msgstr ""
+
+#: vc_functions.php:1192
+msgid "QK Service"
+msgstr ""
+
+#: vc_functions.php:1277
+msgid "QK Team"
+msgstr ""
+
+#: vc_functions.php:1300
+msgid "Name"
+msgstr ""
+
+#: vc_functions.php:1309
+msgid "Job"
+msgstr ""
+
+#: vc_functions.php:1322
+msgid "Images file"
+msgstr ""
+
+#: vc_functions.php:1325
+msgid "Set source images"
+msgstr ""
+
+#: vc_functions.php:1331
+msgid "Content"
+msgstr ""
+
+#: vc_functions.php:1340
+msgid "Link Facebook"
+msgstr ""
+
+#: vc_functions.php:1353
+msgid "Link Twiiter"
+msgstr ""
+
+#: vc_functions.php:1366
+msgid "Link G+"
+msgstr ""
+
+#: vc_functions.php:1379
+msgid "Link Youtube"
+msgstr ""
+
+#: vc_functions.php:1392
+msgid "Link Rss"
+msgstr ""
+
+#: vc_functions.php:1405
+msgid "Link LinkedIn"
+msgstr ""
+
+#: vc_functions.php:1418
+msgid "Link Hospital"
+msgstr ""
+
+#: vc_functions.php:1476
+msgid "QK Testimonial"
+msgstr ""
+
+#: vc_functions.php:1565
+msgid "QK Title"
+msgstr ""
+
+#: vc_functions.php:1591
+msgid "Template main title"
+msgstr ""
+
+#: vc_functions.php:1593
+msgid "Template other title"
+msgstr ""
+
+#: vc_functions.php:1617
+msgid "Heading 1"
+msgstr ""
+
+#: vc_functions.php:1619
+msgid "Heading 2"
+msgstr ""
+
+#: vc_functions.php:1621
+msgid "Heading 3"
+msgstr ""
+
+#: vc_functions.php:1623
+msgid "Heading 4"
+msgstr ""
+
+#: vc_functions.php:1625
+msgid "Heading 5"
+msgstr ""
+
+#: vc_functions.php:1643
+msgid "Heading class name"
+msgstr ""
+
+#: vc_functions.php:1651
+msgid "add perticular style to heading."
+msgstr ""
+
+#: vc_functions.php:1663
+msgid "Number field of title"
+msgstr ""
+
+#: vc_functions.php:1671
+msgid "1 field title"
+msgstr ""
+
+#: vc_functions.php:1673
+msgid "2 fields title"
+msgstr ""
+
+#: vc_functions.php:1675
+msgid "3 fields title"
+msgstr ""
+
+#: vc_functions.php:1677
+msgid "4 fields title"
+msgstr ""
+
+#: vc_functions.php:1715 vc_functions.php:1800 vc_functions.php:1893
+#: vc_functions.php:1984
+msgid "Font style"
+msgstr ""
+
+#: vc_functions.php:1723 vc_functions.php:1808 vc_functions.php:1901
+msgid "Font Bold"
+msgstr ""
+
+#: vc_functions.php:1725 vc_functions.php:1810 vc_functions.php:1903
+msgid "Font Italic"
+msgstr ""
+
+#: vc_functions.php:1727 vc_functions.php:1812 vc_functions.php:1905
+msgid "Normal span tag"
+msgstr ""
+
+#: vc_functions.php:1745 vc_functions.php:1838 vc_functions.php:1930
+msgid "Wrap class name"
+msgstr ""
+
+#: vc_functions.php:1760 vc_functions.php:1853 vc_functions.php:1944
+msgid "Enter wrap class for title style"
+msgstr ""
+
+#: vc_functions.php:1772
+msgid "Title 2"
+msgstr ""
+
+#: vc_functions.php:1865
+msgid "Title 3"
+msgstr ""
+
+#: vc_functions.php:1956
+msgid "Title 4"
+msgstr ""
+
+#: vc_functions.php:2020
+msgid "Number Line"
+msgstr ""
+
+#: vc_functions.php:2048
+msgid "Color line 1"
+msgstr ""
+
+#: vc_functions.php:2068
+msgid "Color line 2"
+msgstr ""
+
+#: vc_functions.php:2096
+msgid "Position Line"
+msgstr ""
+
+#: vc_functions.php:2124
+msgid "Margin bottom Line"
+msgstr ""
+
+#: vc_functions.php:2144
+msgid "Font Icon For line"
+msgstr ""
+
+#: framework/backend_editor.php:12
+#, php-format
+msgid "Drag to move %s"
+msgstr ""
+
+#: framework/backend_editor.php:18
+#, php-format
+msgid "Prepend to %s"
+msgstr ""
+
+#: framework/backend_editor.php:22
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: framework/backend_editor.php:25
+#, php-format
+msgid "Quick Edit %s"
+msgstr ""
+
+#: framework/backend_editor.php:29
+#, php-format
+msgid "Clone %s"
+msgstr ""
+
+#: framework/backend_editor.php:33
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: framework/custom-functions.php:13 framework/custom-functions.php:69
+#: framework/custom-functions.php:76
+msgid "Home"
+msgstr ""
+
+#: framework/custom-functions.php:15
+msgid "Search Keyword: "
+msgstr ""
+
+#: framework/custom-functions.php:18
+msgid "404 ERROR PAGE: "
+msgstr ""
+
+#: framework/custom-functions.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: framework/custom-functions.php:31
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: framework/custom-functions.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: framework/custom-functions.php:35
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: framework/custom-functions.php:37
+msgid "Asides"
+msgstr ""
+
+#: framework/custom-functions.php:39
+msgid "Galleries"
+msgstr ""
+
+#: framework/custom-functions.php:41
+msgid "Images"
+msgstr ""
+
+#: framework/custom-functions.php:43
+msgid "Videos"
+msgstr ""
+
+#: framework/custom-functions.php:45
+msgid "Quotes"
+msgstr ""
+
+#: framework/custom-functions.php:47
+msgid "Links"
+msgstr ""
+
+#: framework/custom-functions.php:49
+msgid "Statuses"
+msgstr ""
+
+#: framework/custom-functions.php:51
+msgid "Audios"
+msgstr ""
+
+#: framework/custom-functions.php:53
+msgid "Chats"
+msgstr ""
+
+#: framework/custom-functions.php:55
+msgid "Archives"
+msgstr ""
+
+#: framework/custom-functions.php:84
+msgid "Archive by category: "
+msgstr ""
+
+#: framework/custom-functions.php:87
+msgid "Search results for: "
+msgstr ""
+
+#: framework/custom-functions.php:198
+msgid "Posts tagged: "
+msgstr ""
+
+#: framework/custom-functions.php:202
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/custom-functions.php:204
+msgid "Error 404"
+msgstr ""
+
+#: framework/metabox-functions.php:17
+msgid "Header Settings"
+msgstr ""
+
+#: framework/metabox-functions.php:28
+msgid "Show Page Title Bar"
+msgstr ""
+
+#: framework/metabox-functions.php:29
+msgid "show Page title bar (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:33
+msgid "Yes, Please!"
+msgstr ""
+
+#: framework/metabox-functions.php:34
+msgid "No, Please!"
+msgstr ""
+
+#: framework/metabox-functions.php:35
+msgid "Inherit From Theme Options"
+msgstr ""
+
+#: framework/metabox-functions.php:51
+msgid "Link Website Or Sub Name"
+msgstr ""
+
+#: framework/metabox-functions.php:56
+msgid "Enter Link Website"
+msgstr ""
+
+#: framework/metabox-functions.php:57
+msgid "Ex: (example.com)"
+msgstr ""
+
+#: framework/metabox-functions.php:62
+msgid "Sub Name"
+msgstr ""
+
+#: framework/metabox-functions.php:63
+msgid "Ex: (ceo)"
+msgstr ""
+
+#: framework/metabox-functions.php:76
+msgid "Project Options"
+msgstr ""
+
+#: framework/metabox-functions.php:87
+msgid "Author"
+msgstr ""
+
+#: framework/metabox-functions.php:88
+msgid "Author (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:95
+msgid "Date (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:102
+msgid "Project Url"
+msgstr ""
+
+#: framework/metabox-functions.php:103
+msgid "Project Url (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:124
+msgid "User Profile Metabox"
+msgstr ""
+
+#: framework/metabox-functions.php:131
+msgid "Extra Info"
+msgstr ""
+
+#: framework/metabox-functions.php:132 framework/metabox-functions.php:140
+#: framework/metabox-functions.php:147 framework/metabox-functions.php:154
+#: framework/metabox-functions.php:161 framework/metabox-functions.php:168
+msgid "field description (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:139
+msgid "Avatar"
+msgstr ""
+
+#: framework/metabox-functions.php:146
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/metabox-functions.php:153
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/metabox-functions.php:160
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/metabox-functions.php:167
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/metabox-functions.php:174
+msgid "User Birthday"
+msgstr ""
+
+#: framework/metabox-functions.php:175
+msgid "Birthday (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:181
+msgid "Gender"
+msgstr ""
+
+#: framework/metabox-functions.php:182
+msgid "Gender (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:185
+msgid "Male"
+msgstr ""
+
+#: framework/metabox-functions.php:186
+msgid "Free Male"
+msgstr ""
+
+#: framework/metabox-functions.php:187
+msgid "Hide"
+msgstr ""
+
+#: framework/metabox-functions.php:193
+msgid "Country"
+msgstr ""
+
+#: framework/metabox-functions.php:194 framework/metabox-functions.php:201
+msgid "User city (optional)"
+msgstr ""
+
+#: framework/metabox-functions.php:200
+msgid "City"
+msgstr ""
+
+#: framework/metabox-functions.php:207
+msgid "Address"
+msgstr ""
+
+#: framework/metabox-functions.php:208
+msgid "User address (optional)"
+msgstr ""
+
+#: framework/theme-configs.php:35 framework/theme-configs.php:36
+msgid "Nivo Options"
+msgstr ""
+
+#: framework/theme-configs.php:141
+#, php-format
+msgid ""
+"Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"$%1$s"
+msgstr ""
+
+#: framework/theme-configs.php:143
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: framework/theme-configs.php:147
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+
+#: framework/theme-configs.php:162
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/theme-configs.php:163 framework/theme-configs.php:168
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: framework/theme-configs.php:167
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/theme-configs.php:174
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/theme-configs.php:216
+msgid "General Settings"
+msgstr ""
+
+#: framework/theme-configs.php:225
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/theme-configs.php:227
+msgid "Upload your Favicon."
+msgstr ""
+
+#: framework/theme-configs.php:237
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/theme-configs.php:245
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: framework/theme-configs.php:248 framework/theme-configs.php:259
+msgid "Upload your Apple touch icon 57x57."
+msgstr ""
+
+#: framework/theme-configs.php:256
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: framework/theme-configs.php:267
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: framework/theme-configs.php:270
+msgid "Upload your Apple touch icon 72x72."
+msgstr ""
+
+#: framework/theme-configs.php:278
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: framework/theme-configs.php:281
+msgid "Upload your Apple touch icon 114x114."
+msgstr ""
+
+#: framework/theme-configs.php:288
+msgid "SEO Description"
+msgstr ""
+
+#: framework/theme-configs.php:296
+msgid "SEO Keywords"
+msgstr ""
+
+#: framework/theme-configs.php:308
+msgid "Styling Options"
+msgstr ""
+
+#: framework/theme-configs.php:314
+msgid "Body Font"
+msgstr ""
+
+#: framework/theme-configs.php:315
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/theme-configs.php:329
+msgid "Theme main Color"
+msgstr ""
+
+#: framework/theme-configs.php:330
+msgid "Pick theme main color (default: #3ab3df)."
+msgstr ""
+
+#: framework/theme-configs.php:338
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/theme-configs.php:339
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/theme-configs.php:352
+msgid "Top Nav Settings"
+msgstr ""
+
+#: framework/theme-configs.php:360
+msgid "Show or Hide Top Nav"
+msgstr ""
+
+#: framework/theme-configs.php:371
+msgid "404 Settings"
+msgstr ""
+
+#: framework/theme-configs.php:380
+msgid "404 Error Content"
+msgstr ""
+
+#: framework/theme-configs.php:396
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/theme-configs.php:404
+msgid "Turn ON footer widget area"
+msgstr ""
+
+#: framework/theme-configs.php:417
+msgid "Footer Text"
+msgstr ""
+
+#: framework/theme-configs.php:418
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/theme-configs.php:426
+msgid "Social Settings"
+msgstr ""
+
+#: framework/theme-configs.php:434
+msgid "Facebook Link"
+msgstr ""
+
+#: framework/theme-configs.php:440
+msgid "Twitter Link"
+msgstr ""
+
+#: framework/theme-configs.php:446
+msgid "Google+ Link"
+msgstr ""
+
+#: framework/theme-configs.php:452
+msgid "Linkedin Link"
+msgstr ""
+
+#: framework/theme-configs.php:458
+msgid "Skype Link"
+msgstr ""
+
+#: framework/theme-configs.php:464
+msgid "Flickr Link"
+msgstr ""
+
+#: framework/theme-configs.php:470
+msgid "Html5 Link"
+msgstr ""
+
+#: framework/theme-configs.php:476
+msgid "YouTube Link"
+msgstr ""
+
+#: framework/theme-configs.php:482
+msgid "Rss Link"
+msgstr ""
+
+#: framework/theme-configs.php:491
+msgid "Page Title Bar"
+msgstr ""
+
+#: framework/theme-configs.php:498
+msgid "Show Title Bar"
+msgstr ""
+
+#: framework/theme-configs.php:499
+msgid "Show title bar in page."
+msgstr ""
+
+#: framework/theme-configs.php:505
+msgid "Background"
+msgstr ""
+
+#: framework/theme-configs.php:506
+msgid "background with image, color, etc."
+msgstr ""
+
+#: framework/theme-configs.php:520
+msgid "Please, Enter margin of title bar."
+msgstr ""
+
+#: framework/theme-configs.php:537
+msgid "Please, Enter padding of title bar."
+msgstr ""
+
+#: framework/theme-configs.php:553
+msgid "Delimiter"
+msgstr ""
+
+#: framework/theme-configs.php:554
+msgid "Please, Enter Delimiter of page breadcrumb in title bar."
+msgstr ""
+
+#: framework/theme-configs.php:561
+msgid "Title Bar"
+msgstr ""
+
+#: framework/theme-configs.php:569
+msgid "Show Page Title"
+msgstr ""
+
+#: framework/theme-configs.php:570
+msgid "Show page title in page title bar."
+msgstr ""
+
+#: framework/theme-configs.php:576
+msgid "Show Page Breadcrumb"
+msgstr ""
+
+#: framework/theme-configs.php:577
+msgid "Show page breadcrumb in page title bar."
+msgstr ""
+
+#: framework/theme-configs.php:585
+msgid "Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:592
+msgid "Show Post Author"
+msgstr ""
+
+#: framework/theme-configs.php:593
+msgid "Show or not post author on your single blog."
+msgstr ""
+
+#: framework/theme-configs.php:599
+msgid "Show Post Comment"
+msgstr ""
+
+#: framework/theme-configs.php:600
+msgid "Show or not post comment on your single blog."
+msgstr ""
+
+#: framework/widget.php:6
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: framework/widget.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/widget.php:90
+msgid "Title:"
+msgstr ""
+
+#: framework/widget.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget.php:97
+msgid "Display post date?"
+msgstr ""
+
+#: vc_templates/qk_portfolio.php:88
+msgid "All"
+msgstr ""
+
+#: vc_templates/qk_price.php:23 vc_templates/qk_price.php:40
+msgid "/m"
+msgstr ""
+
+#: vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+#. Name of the theme
+msgid "Nivo"
+msgstr ""
+
+#. Description of the theme
+msgid "Created by <a href=\"http://joomlastars.co.in\">joomlastars</a>"
+msgstr ""
+
+#. URI of the theme
+msgid "http://joomlastars.co.in"
+msgstr ""
+
+#. Author of the theme
+msgid "<a href=\"http://joomlastars.co.in/\">joomlastars</a>"
+msgstr ""
